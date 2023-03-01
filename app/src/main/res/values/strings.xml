@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TimeBomb</string>
+    <string name="time_bomb_message">Your time is up! *BLOWN UP*</string>
+</resources>
